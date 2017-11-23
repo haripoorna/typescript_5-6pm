@@ -100,4 +100,4 @@ var employee = new Person("rajesh", "raju123")
 console.log(person.name, person.username);
 console.log(employee.name);
 person.setAge(27);
-// employee.setRole("Admin")
+// employee.setRole("Admin");
